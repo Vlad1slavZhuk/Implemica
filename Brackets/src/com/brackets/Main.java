@@ -1,8 +1,8 @@
 package com.brackets;
 
 /**
- * @author Vladyslav Zhuchkov
- * @see <a href="http://google.com">GitHub</a>
+ * @author Vladyslav Zhuchkov (vlad1k.zhuchkov@gmail.com)
+ * @see <a href="@see <a href="https://github.com/Vlad1slavZhuk/Implemica/tree/master/Brackets/src/com/brackets">GitHub</a>">GitHub</a>
  */
 
 public class Main {
